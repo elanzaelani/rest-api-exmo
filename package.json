@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-exmo",
+  "version": "1.0.0",
+  "description": "Restfull api menggunakan nodejs,express,dan mongodb",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "el zaelani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  }
+}
